@@ -1,0 +1,64 @@
+question,type,jump,category
+How are you doing today? How are you feeling lately?,0,0,Generic
+Where do you live?,0,0,Generic
+What are some things you really like about this place?,0,0,Generic
+What are some things you don't really like about this place?,0,0,Generic
+What did you study at school?,0,0,Generic
+Are you currently employed? ,1,1,Generic
+How's work?,0,0,Generic
+What's your dream job? ,0,0,Generic
+Do you travel a lot?,1,1,Generic
+Why? What do you enjoy about traveling?,0,0,Generic
+Do you consider yourself an introvert? ,0,0,Generic
+How would your best friend describe you?,0,0,Generic
+How do you like your living situation?,0,0,Generic
+Do you have roommates? ,1,1,Generic
+What's it like for you living with your roommates?,0,0,Generic
+What advice would you give yourself ten or twenty years ago?,0,0,Generic
+What are some things you wish you could change about yourself? ,0,0,Generic
+What's something you feel guilty about?,0,0,Generic
+What do you think of today's kids?,0,0,Generic
+How close are you to your family?,0,0,Family
+How often do you visit your hometown?,0,0,Family
+Are you a parent?  ,1,4,Family
+What are some ways that you're different as a parent than your parents?,0,0,Family
+Do you find it easy to be a parent?,0,0,Family
+What's the hardest thing about being a parent?,0,0,Family
+What's the best thing about being a parent?,0,0,Family
+What's one of your most memorable experiences?  ,0,1,Positive
+How did you feel in those moments?,0,0,Positive
+What are some things you like to do for fun?,0,0,Positive
+What would you say are some of your best qualities?,0,0,Positive
+What are some things that usually put you in a good mood?,0,0,Positive
+What are you most proud of in your life?,0,0,Positive
+When was the last time you felt really happy?,0,0,Positive
+Who's someone that's been a positive influence in your life?,0,0,Positive
+Do you think that maybe you're being a little hard on yourself?,0,0,Positive
+What do you do to relax?,0,0,Positive
+How easy is it for you to get a good night's sleep?,0,0,Mental Health
+What are you like when you don't sleep well?,0,0,Mental Health
+Have you ever served in the military?    ,1,5,Mental Health
+Why'd you decide to enlist in the military?,0,0,Mental Health
+How old were you when you joined the military?,0,0,Mental Health
+How did serving in the military change you?,0,0,Mental Health
+What did you do after the military?,0,0,Mental Health
+How easy was it for you to go back to civilian life?,0,0,Mental Health
+Do you feel down? ,1,3,Mental Health
+Do you feel that way often?,0,0,Mental Health
+Did you seek help?,0,0,Mental Health
+What got you to seek help? What were your symptoms?,0,0,Mental Health
+Have you been diagnosed with depression or PTSD?   ,1,6,Mental Health
+How long ago were you diagnosed?,0,0,Mental Health
+Are you taking therapy? ,1,3,Mental Health
+Do you feel like it's useful?,0,0,Mental Health
+How has seeing a therapist affected you?,0,0,Mental Health
+What sort of changes have you noticed since you've been going to therapy?,0,0,Mental Health
+Do you have disturbing thoughts? ,1,1,Mental Health
+How do you cope with them?,0,0,Mental Health
+What are some things that make you really mad?,0,0,Anger Management
+How are you at controlling your temper?,0,0,Anger Management
+When was the last time you argued with someone and what was it about?  ,0,2,Anger Management
+How did you feel in that moment?,0,0,Anger Management
+How do you know that person and how close are you to them?,0,0,Anger Management
+What do you do when you're annoyed? ,0,1,Anger Management
+When was the last time that happened?,0,0,Anger Management
